@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>5 Washington Place</p>
     <p>Department of Philosophy</p>
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral fellow of the Communicating Causality project at the University of Edinburgh, supervised by Daniel Lassiter. 
+I am a postdoctoral fellow at the University of Edinburgh, supervised by Daniel Lassiter. I am part of the Communicating Causality Project, with Dan, Michael Franke, Karl Mulligan and Erik Zeiner.
 
-During the 2025/26 academic year I will be Fulbright Scholar at the New York University philosophy department,  supervised by Kit Fine.
+During the 2025/26 academic year I am a Fulbright Scholar at the New York University philosophy department, supervised by Kit Fine.
 
 At present I am working on modality, philosophical logic, conditionals, and causality.
